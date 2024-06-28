@@ -1,0 +1,13 @@
+---------------- DATOS CLIENTE TICKET N 1 ----------------
+Nombre,['asasd']
+Direccion,['sasad']
+Telefono,['asddsa']
+---------------- PRODUCTOS CLIENTE ----------------
+Abono,"['Cantidad = 2, Precio total: = 2400']"
+Tierra,"['Cantidad = 0, Precio total: = 0']"
+Lirio,"['Cantidad = 0, Precio total: = 0']"
+Rosas rojas,"['Cantidad = 0, Precio total: = 0']"
+Margaritas,"['Cantidad = 0, Precio total: = 0']"
+---------------- OTROS DATOS ----------------
+Fecha compra: 28/06/2024
+Total compra: 2400
